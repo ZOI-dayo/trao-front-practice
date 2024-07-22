@@ -1,0 +1,17 @@
+# Created by https://www.toptal.com/developers/gitignore/api/vite,vue
+# Edit at https://www.toptal.com/developers/gitignore?templates=vite,vue
+
+#!! ERROR: vite is undefined. Use list command to see defined gitignore types !!#
+
+### Vue ###
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+# TODO: where does this rule come from?
+docs/_book
+
+# TODO: where does this rule come from?
+test/
+
+# End of https://www.toptal.com/developers/gitignore/api/vite,vue
